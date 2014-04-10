@@ -3,7 +3,7 @@
 /*global Ember, DS, App:true, _ */
 "use strict";
 
-App = Ember.Application.create();
+window.App = Ember.Application.create();
 
 App.ApplicationAdapter = DS.LSAdapter.extend({
   namespace: 'myApp2.songs'
