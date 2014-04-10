@@ -28,4 +28,13 @@ RCS
 RCSLOG
 SCCS
 _$*
-libs
+libs/bootstrap/grunt
+libs/bootstrap/js
+libs/bootstrap/less
+libs/bootstrap/test-infra
+libs/font-awesome/less
+libs/font-awesome/scss
+libs/font-awesome/src
+libs/jquery/src
+libs/underscore.string/lib
+libs/underscore.string/test
