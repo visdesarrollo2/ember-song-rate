@@ -1,6 +1,6 @@
 # Ember.js Song rating app
 This small web application demonstrates the features of Ember.js. In this example I'm using routes, controllers, components and views. Also various concepts Ember.js are explained.
-This application will be used in an introduction to Ember.js tutorial, you can find it soon at [http://g00glen00b.be](http://g00glen00b.be).
+This application will be used in an introduction to Ember.js tutorial, you can find it soon at [http://g00glen00b.be](http://g00glen00b.be/ember-js-action).
 
 ## Installation
 Clone this repo and install all dependencies by using `bower install`. If you're not interested in Bower you can still manually install al libraries.
